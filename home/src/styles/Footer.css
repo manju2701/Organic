@@ -1,0 +1,32 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 0;
+  }
+  
+  .footer-logo {
+    max-width: 150px;
+    margin-bottom: 20px; 
+  }
+  
+  .footer h5 {
+    margin-bottom: 15px; 
+  }
+  
+  .footer ul {
+    padding-left: 0;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px; 
+  }
+  
+  .app-icons {
+    display: flex;
+    gap: 10px; 
+  }
+  
+  .app-icon {
+    max-width: 120px;
+  }
+  

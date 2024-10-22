@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.success-message {
+    color: #28a745; 
+    text-align: center; 
+    margin-top: 10px; 
+}
+
+
+@media (max-width: 768px) {
+    .products {
+        grid-template-columns: repeat(2, 1fr); 
+    }
+}
+
+@media (max-width: 576px) {
+    .products {
+        grid-template-columns: 1fr; 
+    }
+}

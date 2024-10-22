@@ -1,0 +1,16 @@
+.bg-black {
+    background-color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.rating {
+    font-size: 1.5rem; 
+}

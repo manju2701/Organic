@@ -1,0 +1,29 @@
+.my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+.rating {
+    font-size: 1.5em;
+    color: goldenrod;
+}
+
+.btn-green {
+    background-color: #28a745 !important; 
+    border-color: #28a745 !important;
+    color: white !important; 
+}
+
+.btn-green:hover {
+    background-color: #218838 !important;
+    border-color: #1e7e34 !important;
+}

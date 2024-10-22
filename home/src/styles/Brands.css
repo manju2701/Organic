@@ -1,0 +1,13 @@
+.featured-brands {
+    margin: 40px 0; 
+  }
+  
+  .featured-brands h2 {
+    margin-bottom: 30px;
+  }
+  
+  .brand-logo img {
+    max-height: 100px;
+    margin: 0 auto;
+  }
+  

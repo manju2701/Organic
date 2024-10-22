@@ -1,0 +1,41 @@
+.image-container {
+    display: flex; 
+    justify-content: center; 
+    margin-bottom: 30px; 
+}
+
+.image {
+    max-width: 50%; 
+    height: 50%; 
+    border-radius: 10px; 
+}
+
+.custom-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.custom-card:hover {
+    transform: translateY(-5px);
+}
+
+.custom-img {
+    height: 300px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.shop-button {
+    background-color: green;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    transition: background-color 0.3s; 
+}
+
+.shop-button:hover {
+    background-color: darkgreen; 
+}

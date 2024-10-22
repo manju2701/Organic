@@ -1,0 +1,27 @@
+.offer-banner {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.offer-content {
+  background-color: black; 
+  color: white;
+  padding: 20px;
+  border-radius: 5px; 
+}
+
+.offer-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.shop-button {
+  font-size: 1.25rem;
+  margin: 5px 0; 
+
+}
+
+.offer-subtitle {
+  font-size: 1rem;
+  color: #b0b0b0;
+}
